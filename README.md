@@ -1,2 +1,1 @@
-# Julia-Course-Fall-2015
-Julia Course Fall 2015
+Please go to the [wiki](https://github.com/PerimeterInstitute/Julia-Course-Fall-2015/wiki).
